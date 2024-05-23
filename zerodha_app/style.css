@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 15px 15px;
+}
+.logo-img{
+    height: 30px;
+}
+.navitem{
+    float: right;
+}
+.item{
+    padding: 20px;
+}
+.body{
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.landing-img{
+    height: 350px;
+    margin-left: 190px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.body-content{
+    text-align: center;
+}
+.heading1{
+    font-size:50px;
+    padding: 5px 10px;
+}
+.heading2{
+    font-size: 25px;
+    padding: 5px 5px;
+}
+.signup-btn{
+    margin-top: 40px;
+    font-size: 15px;
+    padding: 4px;
+    background-color: rgb(33, 107, 245);
+    color: white;
+    font-weight: bolder;
+    height: 40px;
+    width: 140px;
+    border-radius: 3px;
+}
